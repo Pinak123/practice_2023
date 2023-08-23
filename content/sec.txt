@@ -1,0 +1,2 @@
+This wil be content of the second file sec.txt
+This is second line 
